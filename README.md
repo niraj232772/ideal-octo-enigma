@@ -8,3 +8,4 @@ Add another line.
 New feature.
 
 new cool feature added.
+there is a bug fix.
